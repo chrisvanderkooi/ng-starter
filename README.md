@@ -1,7 +1,19 @@
-# Firebase Setup
+# Firebase
 
 - Global replace `PROJECT_NAME_HERE_1234` with the Firebase project name
 - Update `environment.ts` and `environment.prod.ts` with Firebase project config
+
+# Tailwind
+
+Tailwind plugins are enabled. Remove them if not in use:
+- `@tailwindcss/aspect-ratio`
+- `@tailwindcss/line-clamp`
+- `@tailwindcss/forms`
+- `@tailwindcss/typography`
+
+If plugins are removed, modify `tailwind.config.js`
+
+JIT is enabled. Disable via `tailwind.config.js` where `mode: 'jit'`
 
 ---
 
