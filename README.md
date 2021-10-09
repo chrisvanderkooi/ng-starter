@@ -1,3 +1,10 @@
+# Firebase Setup
+
+- Global replace `PROJECT_NAME_HERE_1234` with the Firebase project name
+- Update `environment.ts` and `environment.prod.ts` with Firebase project config
+
+---
+
 # AngularStarter
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.9.

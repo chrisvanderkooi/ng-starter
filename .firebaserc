@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "PROJECT_NAME_HERE_1234": {
+      "hosting": {
+        "angular-starter": [
+          "PROJECT_NAME_HERE_1234"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "PROJECT_NAME_HERE_1234"
+  }
+}
